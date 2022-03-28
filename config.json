@@ -6,10 +6,10 @@
     "proxy": true,
     "blacklist": [],
     "addresses": [],
-    "authorization": {
+    "authorization"
         "name": "__incog_auth",
         "value": "1"
     },
-    "appearance": "bright",
-    "engine": "google"
+    "appearance": "dark",
+    "engine": "bing"
 }
